@@ -16,12 +16,12 @@ https://drive.google.com/uc?id=1J41UXyGuL1O0R6EuzjulOv3GU7lhfhYL
 
  <script src="example.php"><script> <br>
 
-5:- save your deface file <br>
+5:- save your deface file <br> <br>
 
-6:- Upload Deface on your Target site. <br>
+6:- Upload Deface on your Target site. <br> <br>
 
-Deface visitors device information see <br>
+Deface visitors device information see <br> <br>
 
-               (Example)
+              (Example)<br> <br>
 https://www.example.com/deface-visitor-info.txt <br>
 
